@@ -1,6 +1,6 @@
 {
   "name": "@gunawanwijaya/minami",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
   "scripts": {
@@ -11,10 +11,12 @@
     "url": "https://github.com/gunawanwijaya/minami.git"
   },
   "author": "Nijiko Yonskai <nijikokun@gmail.com>",
-  "contributors": [{
-    "name": "Gunawan Wijaya",
-    "email": "gunawan@wijaya.cc"
-  }],
+  "contributors": [
+    {
+      "name": "Gunawan Wijaya",
+      "email": "gunawan@wijaya.cc"
+    }
+  ],
   "license": "(MIT OR Apache-2.0)",
   "bugs": {
     "url": "https://github.com/gunawanwijaya/minami/issues"
